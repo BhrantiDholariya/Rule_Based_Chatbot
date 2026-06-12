@@ -1,6 +1,4 @@
-# Project 1 — Rule-Based AI Chatbot 🤖
-
-**DecodeLabs Industrial Training | Batch 2026 | Artificial Intelligence**
+# Rule-Based AI Chatbot 🤖
 
 ---
 
@@ -29,8 +27,3 @@ Stores all predefined responses as key-value pairs. The user's input is the key,
  
 ### 6. `.get()` — Safe Lookup with Fallback
 Looks up the user input in the dictionary. If found, returns the response. If not found, returns a default message instead of crashing.
- 
----
-
-
-*Project 1 Completed | DecodeLabs AI Internship 2026*
