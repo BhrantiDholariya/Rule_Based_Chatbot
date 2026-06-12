@@ -4,7 +4,7 @@
 
 ## Overview
 
-A Rule-Based AI Chatbot built using pure Python as part of the DecodeLabs AI Engineering internship. This project demonstrates control flow, decision-making logic, and basic AI concepts — without any external libraries.
+A Rule-Based AI Chatbot built using pure Python. This project demonstrates control flow, decision-making logic, and basic AI concepts — without any external libraries.
 
 ---
  
